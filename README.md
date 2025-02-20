@@ -39,7 +39,7 @@ Based on the weekly average analysis; Weeks Above Average (2023): 15 weeks, Week
 
 **Subcategory Comparison:**
 
-The analysis also identifies the best performing subcategory for 2023 - 2021 (Copiers) and the worst performing subcategory in 2023 -2021 (Tables). Based on these, Copiers continue to dominate, while tables consistently underperform, indicating areas for strategic focus.
+The analysis also identifies the best performing subcategory for 2023 - 2021 (Copiers) and the worst performing subcategory in 2023 -2021 (Tables). This indicates, Copiers continue to dominate, while tables consistently underperform, indicating areas for strategic focus.
 
 **Year-over-Year Performance:**
 
